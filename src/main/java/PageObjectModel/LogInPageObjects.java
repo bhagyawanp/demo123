@@ -6,6 +6,8 @@ import org.openqa.selenium.WebElement;
 
 public class LogInPageObjects {
 	
+	// This is demo line added for git demo purposed
+	
 	//This driver dont have scope
 	public WebDriver driver;
 	//driver.findElement(By.xpath(""))
